@@ -1,3 +1,5 @@
-# Project1
-Learning
-Python Hackathon
+# Sample
+Welcome 
+to 
+Python Basics
+
